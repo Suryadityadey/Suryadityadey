@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suryaditya Dey</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Suryaditya+Dey" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
 Software Engineering | Java Developer | AI/ML Enthusiast
