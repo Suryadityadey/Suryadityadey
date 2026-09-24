@@ -22,10 +22,10 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 💼 AI/ML Intern at Labmentix Pvt. Ltd.
-- ☕ Former Java Development Intern
+- 💼 AI/ML & Software Engineering Enthusiast
+- ☕ Java, Python and Full Stack Developer
 - 👨‍🏫 Computer Science Tutor
-- 🌱 Currently learning Spring Boot, System Design and Advanced DSA
+- 🌱 Building AI, Analytics and Software Projects
 
 ---
 ## 💼 Internship Experience
@@ -55,20 +55,23 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 ## 🛠️ Tech Stack
 
 ### Languages
-Java | Python | C | SQL
+Java | Python | C 
+
+### Database
+MySQL
 
 ### Core CS
-Data Structures & Algorithms  
-Object Oriented Programming  
-DBMS  
-Operating Systems  
-Computer Networks
+Data Structures & Algorithms | Object Oriented Programming  
+DBMS | Operating Systems | Computer Networks
 
 ### Development
 HTML | CSS | JavaScript | MERN Stack | Spring Boot
 
 ### AI / ML
 Pandas | NumPy | Scikit-Learn | NLP | Computer Vision
+
+### Tools
+Git • GitHub • VS Code
 
 ---
 ## 🌟 Highlighted Projects
