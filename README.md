@@ -28,6 +28,19 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 - 🌱 Currently learning Spring Boot, System Design and Advanced DSA
 
 ---
+## 💼 Internship Experience
+
+### AI/ML Intern — Labmentix Pvt. Ltd.
+- Worked on Machine Learning, NLP, Computer Vision and Analytics Projects
+- Developed multiple AI-powered applications and data-driven solutions
+
+### Java Development Intern — Saiket System
+- Built Java applications using OOP concepts
+- Worked with Collections Framework, Exception Handling and File Handling
+
+### Google AI/ML Virtual Internship
+- Explored Computer Vision and Deep Learning concepts
+- Worked on Image Classification and Object Detection workflows
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +61,33 @@ HTML | CSS | JavaScript | MERN Stack | Spring Boot
 Pandas | NumPy | Scikit-Learn | NLP | Computer Vision
 
 ---
+## 🌟 Highlighted Projects
 
+### 🎾 Tennis Game Analytics
+**Tech:** Python, Pandas, MySQL, SportRadar API
+
+- Real-time tennis data extraction and analytics
+- Player performance insights and match statistics
+- Interactive dashboard and database integration
+
+---
+
+### 🤖 AI Text Summarization
+**Tech:** Python, NLP, Machine Learning
+
+- Automated document summarization
+- Text preprocessing and NLP workflows
+- Intelligent content analysis
+
+---
+
+### 💰 PhonePe Analytics
+**Tech:** Python, SQL, Data Analytics
+
+- Digital payment transaction analysis
+- User behavior and trend visualization
+- Business intelligence insights
+---
 ## 🚀 Featured Projects
 
 ### 🎾 Tennis Game Analytics
