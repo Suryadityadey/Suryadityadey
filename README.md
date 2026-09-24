@@ -154,15 +154,6 @@ NLP-based application for automatic document summarization.
 - 🚀 Completed Multiple Internships in AI/ML and Java Development
 
 ---
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryadityadey&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryadityadey&layout=compact)
-
----
-
 ## 💻 Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
