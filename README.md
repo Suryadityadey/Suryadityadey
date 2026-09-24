@@ -122,9 +122,12 @@ NLP-based application for automatic document summarization.
 
 ## 🏆 Achievements
 
-- Finalist – Geekathon Hackathon
-- Junior National League Football Player
-- District & State Level Swimmer
+- 🥈 Finalist – Geekathon Hackathon
+- ⚽ Junior National League Football Player
+- 🏊 District & State Level Swimmer
+- 👨‍🏫 Mentored 25+ Students in Programming and Computer Science
+- 💡 Developed Multiple AI, Analytics and Software Engineering Projects
+- 🚀 Completed Multiple Internships in AI/ML and Java Development
 
 ---
 
