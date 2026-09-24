@@ -1,6 +1,16 @@
-# Hi 👋, I'm Suryaditya Dey
+<h1 align="center">Hi 👋, I'm Suryaditya Dey</h1>
 
-### Software Engineering | Java Developer | AI/ML Enthusiast
+<h3 align="center">
+Software Engineering | Java Developer | AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;AI%2FML+Enthusiast;Data+Science+Intern;Future+Professor+and+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suryadityadey&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 🎓 B.Tech CSE Student @ Narula Institute of Technology
 
