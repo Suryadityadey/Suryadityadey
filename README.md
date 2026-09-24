@@ -42,6 +42,16 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 - Explored Computer Vision and Deep Learning concepts
 - Worked on Image Classification and Object Detection workflows
 
+- ## 📜 Certifications & Training
+
+- 🎓 Data Science & AI/ML Internship – Labmentix Pvt. Ltd.
+- 🎓 Java Development Internship – Saiket System
+- 🎓 Google AI/ML Virtual Internship
+- 🎓 ISRO Geodata Processing using Python & Machine Learning
+- 🎓 MERN Full Stack Development Training
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -151,9 +161,13 @@ NLP-based application for automatic document summarization.
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/suryaditya-dey-658143271
+- 💼 LinkedIn: www.linkedin.com/in/suryaditya-dey-658143271
+- 📧 Email: suryaditya9153@gmail.com
+- 💻 GitHub: github.com/Suryadityadey
 
-Email: suryaditya9153@gmail.com
+---
+
+⭐ Always Learning | Always Building | Always Improving
 
 ---
 
