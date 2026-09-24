@@ -52,26 +52,47 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-Java | Python | C 
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Database
-MySQL
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Core CS
-Data Structures & Algorithms | Object Oriented Programming  
-DBMS | Operating Systems | Computer Networks
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-green?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-orange?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-red?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-purple?style=for-the-badge)
 
 ### Development
-HTML | CSS | JavaScript | MERN Stack | Spring Boot
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=for-the-badge)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### AI / ML
-Pandas | NumPy | Scikit-Learn | NLP | Computer Vision
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4088?style=for-the-badge)
+![Computer_Vision](https://img.shields.io/badge/Computer_Vision-673AB7?style=for-the-badge)
 
 ### Tools
-Git • GitHub • VS Code
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 ## 🌟 Highlighted Projects
@@ -171,15 +192,11 @@ NLP-based application for automatic document summarization.
   <img src="https://komarev.com/ghpvc/?username=Suryadityadey&label=Profile+Views&color=ff1493&style=for-the-badge" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/suryaditya-dey-658143271">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff1493?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:suryaditya9153@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-ff1493?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Suryadityadey">
-    <img src="https://img.shields.io/badge/GitHub-Profile-ff1493?style=for-the-badge&logo=github" />
-  </a>
+<a href="https://www.linkedin.com/in/suryaditya-dey-658143271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/suryaditya_dey?stkn=MXZ3eGdkNHBua2JkNg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/share/1Dwy5Tvq6a/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="mailto:suryaditya9153@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Suryadityadey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
