@@ -70,6 +70,33 @@ NLP-based application for automatic document summarization.
 
 ---
 
+## 📊 GitHub Statistics
+
+![Suryaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryadityadey&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryadityadey&layout=compact)
+
+---
+
+## 💻 Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+---
+
+## 🎯 Current Focus
+
+- Software Engineering
+- Java Development
+- Data Structures & Algorithms
+- Machine Learning
+- Full Stack Development
+- System Design Fundamentals
+
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/suryaditya-dey-658143271
