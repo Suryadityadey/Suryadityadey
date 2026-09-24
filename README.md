@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&height=80&lines=Code.+Learn.+Create.+Innovate.+Inspire.;Build+Solutions+for+the+Future.;AI+%7C+Software+Engineering+%7C+Teaching.;Always+Learning.+Always+Building." />
+</p>
+
 <h1 align="center">Hi 👋, I'm Suryaditya Dey</h1>
 
 <h3 align="center">
@@ -5,10 +9,6 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;AI%2FML+Enthusiast;Data+Science+Intern;Future+Professor+and+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suryadityadey&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 🎓 B.Tech CSE Student @ Narula Institute of Technology
@@ -167,12 +167,24 @@ NLP-based application for automatic document summarization.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/suryaditya-dey-658143271
-- 📧 Email: suryaditya9153@gmail.com
-- 💻 GitHub: github.com/Suryadityadey
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suryadityadey&label=Profile+Views&color=ff1493&style=for-the-badge" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryaditya-dey-658143271">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff1493?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:suryaditya9153@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-ff1493?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Suryadityadey">
+    <img src="https://img.shields.io/badge/GitHub-Profile-ff1493?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=2000&pause=2000&color=1E90FF&center=true&vCenter=true&width=1000&lines=%E2%AD%90+Always+Learning+%7C+Always+Building+%7C+Always+Improving" />
+</p>
 
-⭐ Always Learning | Always Building | Always Improving
 
 ---
