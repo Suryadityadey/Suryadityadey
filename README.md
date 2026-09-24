@@ -136,7 +136,7 @@ NLP-based application for automatic document summarization.
 
 ## 📊 GitHub Statistics
 
-![Suryaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryadityadey&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryadityadey&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryadityadey&layout=compact)
 
@@ -176,5 +176,3 @@ NLP-based application for automatic document summarization.
 ⭐ Always Learning | Always Building | Always Improving
 
 ---
-
-⭐ Always Learning | Always Building | Always Improving
