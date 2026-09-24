@@ -42,7 +42,7 @@ Software Engineering | Java Developer | AI/ML Enthusiast
 - Explored Computer Vision and Deep Learning concepts
 - Worked on Image Classification and Object Detection workflows
 
-- ## 📜 Certifications & Training
+  ## 📜 Certifications & Training
 
 - 🎓 Data Science & AI/ML Internship – Labmentix Pvt. Ltd.
 - 🎓 Java Development Internship – Saiket System
