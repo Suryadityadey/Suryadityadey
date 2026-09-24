@@ -95,6 +95,10 @@ NLP-based application for automatic document summarization.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,javascript,git,github,vscode" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
